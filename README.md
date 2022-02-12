@@ -1,3 +1,3 @@
-<p align="center">
+<img align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wulu-epic&count_private=true)
-</p>
+</img>
